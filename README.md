@@ -16,8 +16,8 @@ The aim of this project is to demonstrate how to convert an image to grayscale u
 
 ## Program:
 ```
-Name   : Karthikeyan K
-Reg No : 212221230046
+Name   : Bharath V
+Reg No : 212221230013
 ```
 ```
 import cv2
